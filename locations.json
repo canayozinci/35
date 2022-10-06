@@ -2351,6 +2351,23 @@
 			{"lat": -56.773, "lng": -13.064}
 		]
 	},
+	{
+		"id": 0,
+		"type": "Territories",
+		"title": "Families",
+		"notes": "Sametin AMK",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -72.737, "lng": -19.360},
+			{"lat": -74.354, "lng": -19.975},
+			{"lat": -72.944, "lng": -21.469},
+			{"lat": -71.551, "lng": -18.261},
+			{"lat": -72.520, "lng": -14.614}
+		]
+	},
 	
 
 	{
