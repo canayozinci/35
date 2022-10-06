@@ -2352,14 +2352,14 @@
 		]
 	},
 	{
-		"id": 0,
+		"id": 2002,
 		"type": "Territories",
 		"title": "Families",
 		"notes": "Sametin AMK",
 		"wiki_link": "",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "#088A08",
+		"fillcolor": "#088A08",
 		"latlngarray": [
 			{"lat": -72.737, "lng": -19.360},
 			{"lat": -74.354, "lng": -19.975},
