@@ -2352,21 +2352,42 @@
 		]
 	},
 	{
-		"id": 2002,
+		"id": 2038,
 		"type": "Territories",
-		"title": "Families",
-		"notes": "Sametin AMK",
-		"wiki_link": "",
+		"title": "The Grove Street Families",
+		"notes": "Formerly known as the Grove Street Families (GSF), now known as The Families, the gang is known for the color Green. The Families started with OG members Dexx Martin, Chef, Ghost Storm & Tyrese Tyrone. They all lived in the area of Forum Drive, The Families are made up four separate gangs consisting of Forum Drive Families, Carson Avenue Families, Davis Neighborhood Families, and Chamberlain Gangster Families.",
+		"wiki_link": "https://nopixel.fandom.com/wiki/The_Families",
 		"order": 0,
-		"strokecolor": "#088A08",
-		"fillcolor": "#088A08",
+		"strokecolor": "008000",
+		"fillcolor": "008000",
 		"latlngarray": [
-			{"lat": -72.737, "lng": -19.360},
-			{"lat": -74.354, "lng": -19.975},
-			{"lat": -72.944, "lng": -21.469},
-			{"lat": -71.551, "lng": -18.261},
-			{"lat": -72.520, "lng": -14.614}
-		]
+			{"lat": -74.371, "lng": -19.894},
+			{"lat": -74.060, "lng": -21.300},
+			{"lat": -73.823, "lng": -22.421},
+			{"lat": -73.471, "lng": -24.794},
+			{"lat": -73.301, "lng": -25.123},
+			{"lat": -73.130, "lng": -24.969},
+			{"lat": -72.873, "lng": -25.101},
+			{"lat": -72.671, "lng": -25.475},
+			{"lat": -72.354, "lng": -25.409},
+			{"lat": -72.173, "lng": -25.101},
+			{"lat": -71.703, "lng": -25.123},
+			{"lat": -71.676, "lng": -26.112},
+			{"lat": -69.701, "lng": -26.002},
+			{"lat": -69.663, "lng": -22.443},
+			{"lat": -69.785, "lng": -19.674},
+			{"lat": -69.777, "lng": -13.829},
+			{"lat": -69.716, "lng": -11.368},
+			{"lat": -70.276, "lng": -10.703},
+			{"lat": -70.431, "lng": -10.890},
+			{"lat": -70.702, "lng": -9.670},
+			{"lat": -71.250, "lng": -10.841}
+		],
+		"video": {
+			"yt_id": "_2M8wtbdg6k",
+			"yt_user_display": "NIKAD",
+			"yt_user_link": "c/nikad"
+		}
 	},
 	
 
