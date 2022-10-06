@@ -101,49 +101,49 @@ $(function() {
 
 	var categories = (window.cats = new CategoriesCollection([
 		{
-			name: 'Neighborhoods',
+			name: 'Mahalleler',
 			icon: 'radar/radar_warehouse.png',
 			type: 'General',
 			enabled: true,
 		},
 		{
-			name: 'Territories',
+			name: 'Bölgeler',
 			icon: 'General/wall-breach.png',
 			type: 'General',
 			enabled: true,
 		},
 		{
-			name: 'Neutral',
+			name: 'Nötr',
 			icon: 'General/glitches.png',
 			type: 'General',
 			enabled: true,
 		},
 		{
-			name: 'Automotive',
+			name: 'Mekanik ve Galeriler',
 			icon: 'radar/radar_acsr_race_hotring.png',
 			type: 'General',
 			enabled: true,
 		},
 		{
-			name: 'Heists',
+			name: 'Soygunlar',
 			icon: 'radar/radar_heist.png',
 			type: 'General',
 			enabled: true,
 		},
 		{
-			name: 'Legal',
+			name: 'Devlet Binaları',
 			icon: 'radar/radar_police_station.png',
 			type: 'General',
 			enabled: true,
 	   },
 		{
-			name: 'Medical',
+			name: 'Hastaneler',
 			icon: 'radar/radar_hospital.png',
 			type: 'General',
 			enabled: true,
 		},
 		{
-			name: 'Restaurants',
+			name: 'Restorantlar',
 			icon: 'radar/radar_bar.png',
 			type: 'General',
 			enabled: true,
@@ -529,13 +529,10 @@ $(function() {
 
 function printArray() {
 	var msg = 'Submit new regions here:\n'
-	+ 'https://github.com/skyrossm/np-gangmap/issues\n\n'
-	+ 'Right click the map to add points to the region. You may have to toggle regions off to be able to right click on the bottom layer. Fill in the values marked "<edit here>" and title the new issue using the format: "Add <title> region". Copy and paste everything below this. If your browser does not support selecting the text below press F12 to open the developer console and copy it from there. (scroll down)\n\n';
 	msg += '```json\n\t{\n\t\t"id": 0,'
-	+ '\n\t\t"type": "Territories",'
+	+ '\n\t\t"type": "Bölgeler",'
 	+ '\n\t\t"title": "<edit this>",'
 	+ '\n\t\t"notes": "<edit this>",'
-	+ '\n\t\t"wiki_link": "https://nopixel.fandom.com/wiki/<edit this>",'
 	+ '\n\t\t"order": 0,'
 	+ '\n\t\t"strokecolor": "FF0000",'
 	+ '\n\t\t"fillcolor": "FF0000",'
