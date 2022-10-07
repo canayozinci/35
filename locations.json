@@ -2922,7 +2922,7 @@
 		"id": 3026,
 		"type": "Neutral",
 		"title": "Vanilla Unicorn",
-		"notes": "The place used to be strip club and was owned by Liv Lassen and Dexx Martin. The club offered exclusive memberships for influential citizens allowing entrance into the Vanilla Unicorn for those who purchased a subscription. The state shut down the location after Liv Lassen was deported from the state by Federal order. Dexx repurchased the club with Jessie Jugg and have since repurposed it as a private entertainment club. The VU sold permanent VIP memberships for a limited time prior to the business's reopening. During renovation hot tubs and towel racks were installed. Additionally, camera and computer equipment was purchased for their Mitch.tv streaming deal.",
+		"notes": "South Side bölgesinde bulunan bir işletme.(Her hangi bir çalışanı bulunmakakta.)",
 		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
@@ -2933,73 +2933,6 @@
 			{"lat": -70.049, "lng": -10.827},
 			{"lat": -70.251, "lng": -10.529},
 			{"lat": -70.461, "lng": -12.089}
-		]
-	},
-	{
-		"id": 3027,
-		"type": "Neutral",
-		"title": "Vultur L\u00e9 Cultur\u00e9 ",
-		"notes": "Vultur L\u00e9 Cultur\u00e9, also known simply as the Gallery, is an art gallery and auction house founded by Ramee El-Rahman",
-		"order": 0,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": -51.771, "lng": -30.678},
-			{"lat": -51.771, "lng": -28.843},
-			{"lat": -51.919, "lng": -28.415},
-			{"lat": -51.913, "lng": -26.393},
-			{"lat": -52.311, "lng": -26.371},
-			{"lat": -52.779, "lng": -26.426},
-			{"lat": -52.746, "lng": -26.756},
-			{"lat": -52.673, "lng": -30.821}
-		]
-	},
-	{
-		"id": 3028,
-		"type": "Neutral",
-		"title": "Wu-Chang Records",
-		"notes": "Wu-Chang Records was created by Mr. Wang Chang (Mr. Kebun) and Vinny Pistone, and established under Mr. Wang Chang's name. Vinny and Mr. Chang unofficially signed Lil Erf as the label's first artist, after the debut of his hit song Chang Gang.",
-		"order": 0,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": -63.175, "lng": -39.712},
-			{"lat": -63.175, "lng": -38.207},
-			{"lat": -64.112, "lng": -38.207},
-			{"lat": -64.112, "lng": -39.712}
-		]
-		
-	},
-	{
-		"id": 3029,
-		"type": "Neutral",
-		"title": "You Tool",
-		"notes": "A place to buy repair kits, radios, and body armor.",
-		"order": 0,
-		"strokecolor": "00DA7D",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": 37.736, "lng": 61.982},
-			{"lat": 36.165, "lng": 66.629},
-			{"lat": 33.491, "lng": 65.208},
-			{"lat": 35.084, "lng": 60.565}
-		]
-	},
-	{
-		"id": 3030,
-		"type": "Neutral",
-		"title": "Carmella Corset's House",
-		"notes": "Chang Gang and Clean Queens members visit here frequently.",
-		"order": 1,
-		"strokecolor": "E09573",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": -52.296, "lng": -59.825},
-			{"lat": -52.289, "lng": -59.144},
-			{"lat": -52.182, "lng": -58.419},
-			{"lat": -53.049, "lng": -58.419},
-			{"lat": -53.515, "lng": -59.485},
-			{"lat": -53.515, "lng": -59.825}
 		]
 	},
 	{
@@ -3069,7 +3002,7 @@
 		"id": 4002,
 		"type": "Automotive",
 		"title": "Benny's Original Motor Works",
-		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
+		"notes": "South Side bölgesinde bulunan mekanik garaj",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -3083,29 +3016,10 @@
 		]
 	},
 	{
-		"id": 4003,
-		"type": "Automotive",
-		"title": "Burton Los Santos Customs",
-		"notes": "",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CADA",
-		"latlngarray": [
-			{"lat": -54.519, "lng": -24.945},
-			{"lat": -54.888, "lng": -23.143},
-			{"lat": -55.609, "lng": -23.528},
-			{"lat": -55.911, "lng": -23.539},
-			{"lat": -55.942, "lng": -24.154},
-			{"lat": -56.133, "lng": -25.154},
-			{"lat": -55.584, "lng": -25.714}
-		]
-	},
-	{
 		"id": 4004,
 		"type": "Automotive",
 		"title": "Deluxe Car Garage/Showroom",
-		"notes": "Associated with H&O Exports",
+		"notes": "*****",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
@@ -3116,37 +3030,6 @@
 			{"lat": -66.158, "lng": 9.712},
 			{"lat": -66.158, "lng": 8.026},
 			{"lat": -65.962, "lng": 7.949}
-		]
-	},
-	{
-		"id": 4005,
-		"type": "Automotive",
-		"title": "H&O Exports",
-		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operations.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD880",
-		"latlngarray": [
-			{"lat": -73.481, "lng": 9.939},
-			{"lat": -73.428, "lng": 21.541},
-			{"lat": -75.609, "lng": 21.541},
-			{"lat": -75.609, "lng": 8.815},
-			{"lat": -74.807, "lng": 9.463}
-		]
-	},
-	{
-		"id": 4006,
-		"type": "Automotive",
-		"title": "H&O Exports Entrance",
-		"notes": "H&O Exports also known as the HOE, is a underground repair shop/car dealership owned by Otto Delmar. It is run by Hutch Hutcherson. Hutch is currently on vacation in Russia and has given Jaylen Carter of Chang Gang full control of operatons.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -73.863, "lng": 10.497},
-			{"lat": -73.936, "lng": 12.804},
-			{"lat": -74.131, "lng": 12.749},
-			{"lat": -74.069, "lng": 10.421}
 		]
 	},
 	{
@@ -3193,96 +3076,6 @@
 			{"lat": -76.239, "lng": -47.382},
 			{"lat": -76.409, "lng": -48.086},
 			{"lat": -76.219, "lng": -48.877}
-		]
-	},
-	{
-		"id": 4010,
-		"type": "Automotive",
-		"title": "Iron Hog Repairs",
-		"notes": "Iron Hog is owned and run by Lucille Hellman, and originally operated out of the garage at the Lost MC compound in Stab City, when it was founded in 2020. In 2021, Iron Hog was relocated to its own building at the Sandy Shores Airfield, and made its grand opening on September 11th, 2021. The shop specializes in motorcycles and is protected by the Lost MC",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": 32.079, "lng": 35.687},
-			{"lat": 32.455, "lng": 36.593},
-			{"lat": 31.794, "lng": 37.071},
-			{"lat": 31.399, "lng": 36.096}
-		]
-	},
-	{
-		"id": 4011,
-		"type": "Automotive",
-		"title": "Murrieta Heights Benny's Original Motor Works",
-		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -66.732, "lng": 11.959},
-			{"lat": -66.732, "lng": 12.851},
-			{"lat": -67.021, "lng": 12.851},
-			{"lat": -67.038, "lng": 11.959}
-		]
-	},
-	{
-		"id": 4012,
-		"type": "Automotive",
-		"title": "Ottos Auto",
-		"notes": "Ottos Autos is a second-hand car dealership and mechanic shop created by Otto Delmar. The ownership of the business is split three ways between the Diamond Casino and Resort (Dean Watson and Otto), Leslie Lingberg and Marlo Stanfield. As Otto is also the creator of Diamond Hand Credit the shop is able to offer fast and easy loans to people buying cars who need a little extra cash. With Leslie Lingberg being a 33% shareholder, the business has a partnership with PDM where people looking to sell cars will be directed to Ottos Autos.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -65.014, "lng": 8.921},
-			{"lat": -65.014, "lng": 9.712},
-			{"lat": -65.239, "lng": 9.712},
-			{"lat": -65.257, "lng": 8.921}
-		]
-	},
-	{
-		"id": 4013,
-		"type": "Automotive",
-		"title": "Premium Deluxe Motorsport",
-		"notes": "Premium Deluxe Motorsport, or PDM as most call it, is a car dealership run by businessman Leslie Lingberg. PDM is the place where most people buy their first car in city. PDM has a working relationship with Diamond Hand Credit who provide financing to prospective car buyers.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -67.887, "lng": -16.617},
-			{"lat": -68.077, "lng": -14.979},
-			{"lat": -68.552, "lng": -15.474},
-			{"lat": -68.588, "lng": -17.319}
-		]
-	},
-	{
-		"id": 4014,
-		"type": "Automotive",
-		"title": "Strawberry Benny's Original Motor Works",
-		"notes": "Benny's Original Motor Works allows citizens of Los Santos to repair their vehicles, as well as fit specialized equipment and accessories to their cars (such as hydraulics, vinyls, interior mods, and unique paint-jobs). James, Jenny, Jon, and Justin Benny are mechanics and co-owners of the Benny's Original Motor Works. The business was passed down to them by their father, George Benny, after his death.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -70.414, "lng": -22.409},
-			{"lat": -70.414, "lng": -20.399},
-			{"lat": -70.697, "lng": -20.399},
-			{"lat": -70.697, "lng": -22.409}
-		]
-	},
-	{
-		"id": 4015,
-		"type": "Automotive",
-		"title": "Tuner Shop",
-		"notes": "The Tuner Shop, also known as the Tuna Shop, is a repair shop and car dealership owned by Eddie Marshall. He owns 52%. It is managed by Tommy Cruizer, and its Sales Operations are run by Mary Mushkin, Chip Wheeler and Eddie himself.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": -81.662, "lng": -11.634},
-			{"lat": -81.662, "lng": -10.125},
-			{"lat": -81.973, "lng": -10.125},
-			{"lat": -81.973, "lng": -11.634}
 		]
 	},
 	{
@@ -3443,53 +3236,6 @@
 			{"lat": -70.029, "lng": -8.042}
 		]
 	},
-	{
-		"id": 4025,
-		"type": "Automotive",
-		"title": "Refuel Hanger",
-		"notes": "Where helicopters refuel.",
-		"order": 2,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -82.932, "lng": -52.405},
-			{"lat": -83.072, "lng": -50.449},
-			{"lat": -83.109, "lng": -50.702},
-			{"lat": -83.246, "lng": -51.691},
-			{"lat": -83.133, "lng": -53.372}
-		]
-	},
-	{
-		"id": 4026,
-		"type": "Automotive",
-		"title": "Repair Hanger",
-		"notes": "Where helicopters are repaired.",
-		"order": 2,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -82.128, "lng": -63.573},
-			{"lat": -82.247, "lng": -62.054},
-			{"lat": -82.388, "lng": -62.658},
-			{"lat": -82.267, "lng": -64.185}
-		]
-	},
-	{
-		"id": 4027,
-		"type": "Automotive",
-		"title": "Repair Hanger",
-		"notes": "Where helicopters are repaired.",
-		"order": 2,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": 24.542, "lng": -67.694},
-			{"lat": 23.285, "lng": -65.288},
-			{"lat": 19.366, "lng": -67.716},
-			{"lat": 20.688, "lng": -70.144}
-		]
-	},
-
 
 
 	{
@@ -3541,39 +3287,6 @@
 		]
 	},
 	{
-		"id": 5004,
-		"type": "Heists",
-		"title": "Laptop Pickup",
-		"notes": "Where phone dongles and laptops are picked up.",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": 25.902, "lng": -1.105},
-			{"lat": 27.082, "lng": -0.226},
-			{"lat": 26.532, "lng": 0.719},
-			{"lat": 25.297, "lng": -0.127}
-		]
-	},
-	{
-		"id": 5005,
-		"type": "Heists",
-		"title": "Laptop Shop",
-		"notes": "Where laptops are bought.",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -64.154, "lng": -56.186},
-			{"lat": -63.918, "lng": -55.471},
-			{"lat": -63.666, "lng": -54.691},
-			{"lat": -64.254, "lng": -53.659},
-			{"lat": -64.648, "lng": -54.878}
-		]
-	},
-	{
 		"id": 5006,
 		"type": "Heists",
 		"title": "Paleto Bank",
@@ -3592,7 +3305,7 @@
 		"id": 5007,
 		"type": "Heists",
 		"title": "The Casino",
-		"notes": "The Casino is owned and operated by Dean Watson and ran by Chief Executive Officer Cassie Cupcakes. Originally the CEO position was given to Kevin Whipaloo by both Dean Watson & Otto Delmar which he accepted with the terms being he would resign from Burger Shot. However, the next day Kevin ran out of town and has not been seen since. The Casino Heist is the fifth stage progression of bank robberies.",
+		"notes": "Daha aktif değil.",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -3609,7 +3322,7 @@
 		"id": 5008,
 		"type": "Heists",
 		"title": "The City Vault",
-		"notes": "The City Vault (Pacific Standard Public Deposit Bank) is the third stage and fourth progression of bank robberies.",
+		"notes": "Şehir Kasası (Pasifik Standart Kamu Mevduat Bankası), banka soygunlarının üçüncü aşaması ve dördüncü aşamasıdır.",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -3620,29 +3333,9 @@
 			{"lat": -49.335, "lng": -8.622}
 		],
 		"video": {
-			"yt_id": "WkJP51cKxEs",
-			"yt_user_display": "xQcOW",
-			"yt_user_link": "c/xqcow"
-		}
-	},
-	{
-		"id": 5009,
-		"type": "Heists",
-		"title": "VAR Heist",
-		"notes": "The VAR Heist is accessible from the roof of a building in Morningwood, using VAR headsets (obtained from the Yacht Heist) criminals can enter a virtual world to fight hostiles while attempting to hack into terminals and gain illegal data.",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -57.785, "lng": -21.025},
-			{"lat": -57.904, "lng": -20.552},
-			{"lat": -58.087, "lng": -20.716},
-			{"lat": -57.971, "lng": -21.189}
-		],
-		"video": {
-			"yt_id": "_ec0C13ipKE",
-			"yt_user_display": "Sykkuno",
-			"yt_user_link": "user/Sykkuno"
+			"yt_id": "",
+			"yt_user_display": "",
+			"yt_user_link": ""
 		}
 	},
 	{
