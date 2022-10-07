@@ -3242,7 +3242,7 @@
 		"id": 5001,
 		"type": "Heists",
 		"title": "Fleeca Bank",
-		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"notes": "Fleeca Bank soygunu, Los Santos'ta yer alan soygun bir bankacılık ve kredi kartı şirketidir.",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -3257,7 +3257,7 @@
 		"id": 5002,
 		"type": "Heists",
 		"title": "Fleeca Bank",
-		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"notes": "Fleeca Bank soygunu, Los Santos'ta yer alan soygun bir bankacılık ve kredi kartı şirketidir.",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -3272,7 +3272,7 @@
 		"id": 5003,
 		"type": "Heists",
 		"title": "Fleeca Bank",
-		"notes": "The Fleeca Bank heist is a robbable banking and credit card company featured across Los Santos.",
+		"notes": "Fleeca Bank soygunu, Los Santos'ta yer alan soygun bir bankacılık ve kredi kartı şirketidir.",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "FFD700",
@@ -3290,7 +3290,7 @@
 		"id": 5006,
 		"type": "Heists",
 		"title": "Paleto Bank",
-		"notes": "Paleto Bank (Blaine County Savings Bank) is the second stage progression of bank robberies.",
+		"notes": "Paleto Bank (Blaine County Tasarruf Bankası), banka soygunlarının ikinci aşamasıdır.",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -3342,7 +3342,7 @@
 		"id": 5010,
 		"type": "Heists",
 		"title": "Vangelico Jewelry Store",
-		"notes": "Retailer of high-end jewelry and blood diamonds. A common place for criminals to heist.",
+		"notes": "Üst düzey mücevher ve kan pırlantaları perakendecisi. Suçluların soygun yapabileceği ortak bir yer.",
 		"order": 0,
 		"strokecolor": "FFD700",
 		"fillcolor": "FFD700",
@@ -3369,9 +3369,9 @@
 			{"lat": -68.608, "lng": -73.584}
 		],
 		"video": {
-			"yt_id": "Q9qSKrflV3E",
-			"yt_user_display": "xQcOW",
-			"yt_user_link": "c/xQcOW"
+			"yt_id": "",
+			"yt_user_display": "",
+			"yt_user_link": ""
 		}
 	},
 
@@ -3381,7 +3381,7 @@
 		"id": 6001,
 		"type": "Legal",
 		"title": "AirX Flight School",
-		"notes": "AirX is owned by Jackie Snow. Knowing their passion, skill, and experience for flying, Bryce Miller, Tony Corleone, and Olivia Copper were the first to be recruited into the flight school. Bryce was hired as Flight Chief/Manager and Instructor of AirX. Tony and Copper were also hired as Flight Instructors. AirX Flight School operates out of Fort Zancudo military base.",
+		"notes": "*****",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "0000FF",
@@ -3416,27 +3416,6 @@
 			{"lat": 30.237, "lng": -99.083},
 			{"lat": 32.284, "lng": -99.325},
 			{"lat": 33.765, "lng": -98.402}
-		]
-	},
-	{
-		"id": 6002,
-		"type": "Legal",
-		"title": "Bob Smith PD",
-		"notes": "Bob Smith Police Department, formerly known as Vespucci Police Department was named after former Chief of Police Bob Smith. Who was the longest standing Chief in Los Santos, beloved by the people.",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": -65.418, "lng": -48.595},
-			{"lat": -64.592, "lng": -46.244},
-			{"lat": -64.802, "lng": -45.643},
-			{"lat": -64.917, "lng": -45.028},
-			{"lat": -64.992, "lng": -44.478},
-			{"lat": -65.117, "lng": -43.939},
-			{"lat": -65.452, "lng": -44.423},
-			{"lat": -65.648, "lng": -44.786},
-			{"lat": -65.873, "lng": -45.632},
-			{"lat": -66.274, "lng": -47.214}
 		]
 	},
 	{
