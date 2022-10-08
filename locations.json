@@ -2368,6 +2368,21 @@
 		]
 	},
 	{
+		"id": 2003,
+		"type": "Territories",
+		"title": "Hammers",
+		"notes": "Kıyıcı tayfa",
+		"order": 0,
+		"strokecolor": "FF004D",
+		"fillcolor": "FF004D",
+		"latlngarray": [
+			{"lat": -68.527, "lng": -54.089},
+			{"lat": -68.268, "lng": -52.881},
+			{"lat": -70.012, "lng": -51.760},
+			{"lat": -70.184, "lng": -53.518}
+		]
+	},
+	{
 		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
