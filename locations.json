@@ -2351,6 +2351,22 @@
 		]
 	},
 	{
+		"id": 2002,
+		"type": "Territories",
+		"title": "Respect",
+		"notes": "Eski Unicorn sahiplerinin oluşturduğu grup",
+		"order": 0,
+		"strokecolor": "FD5E53",
+		"fillcolor": "FD5E53",
+		"latlngarray": [
+			{"lat": -52.867, "lng": -39.155},
+			{"lat": -54.710, "lng": -40.526},
+			{"lat": -51.806, "lng": -43.448},
+			{"lat": -51.308, "lng": -36.680},
+			{"lat": -53.289, "lng": -35.812}
+		]
+	},
+	{
 		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
