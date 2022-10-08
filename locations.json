@@ -2384,6 +2384,25 @@
 		]
 	},
 	{
+		"id": 2004,
+		"type": "Territories",
+		"title": "Şanel",
+		"notes": "******",
+		"order": 0,
+		"strokecolor": "BD0097",
+		"fillcolor": "BD0097",
+		"latlngarray": [
+			{"lat": -66.630, "lng": -33.530},
+			{"lat": -66.751, "lng": -36.386},
+			{"lat": -67.249, "lng": -38.583},
+			{"lat": -66.542, "lng": -39.572},
+			{"lat": -65.361, "lng": -39.462},
+			{"lat": -65.342, "lng": -36.562},
+			{"lat": -65.324, "lng": -33.595},
+			{"lat": -65.922, "lng": -33.552}
+		]
+	},
+	{
 		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
@@ -2415,16 +2434,16 @@
 			{"lat": -71.250, "lng": -10.841}
 		],
 		"video": {
-			"yt_id": "_2M8wtbdg6k",
-			"yt_user_display": "NIKAD",
-			"yt_user_link": "c/nikad"
+			"yt_id": "",
+			"yt_user_display": "",
+			"yt_user_link": ""
 		}
 	},
 	{
 		"id": 2045,
 		"type": "Territories",
 		"title": "Vagos",
-		"notes": "The Eastside Vagos (ESV) also known as the Vagos, is a Mexican street gang currently led by el Jefe, Arush Patel 'Speedy' Santana. They operate out of the Barrio, based in the Jamestown area. They are said to be the largest Hispanic street gang in Los Santos. The gang's main business revolves around pushing guns, drugs and various other legal and criminal activities.",
+		"notes": "Vagos olarak da bilinen Eastside Vagos (ESV), şu anda el Jefe, Juan 'Speedy' Vialpando tarafından yönetilen bir Meksikalı sokak çetesidir. Jamestown bölgesinde bulunan Barrio'nun dışında faaliyet gösteriyorlar. Los Santos'taki en büyük Hispanik sokak çetesi oldukları söyleniyor. Çetenin ana işi, silahları, uyuşturucuları ve diğer çeşitli yasal ve cezai faaliyetleri zorlamak etrafında döner.",
 		"order": 0,
 		"strokecolor": "FFFF00",
 		"fillcolor": "FFFF00",
