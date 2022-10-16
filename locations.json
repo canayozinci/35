@@ -2398,6 +2398,30 @@
 		]
 	},
 	{
+		"id": 2006,
+		"type": "Territories",
+		"title": "Black Mask",
+		"notes": "Siyah Maskeli elemanlar",
+		"order": 0,
+		"strokecolor": "000000",
+		"fillcolor": "000000",
+		"latlngarray": [
+			{"lat": -70.176, "lng": -52.306},
+			{"lat": -70.309, "lng": -53.493},
+			{"lat": -71.193, "lng": -52.658},
+			{"lat": -71.634, "lng": -51.867},
+			{"lat": -72.052, "lng": -51.010},
+			{"lat": -72.507, "lng": -50.065},
+			{"lat": -72.387, "lng": -48.900},
+			{"lat": -72.220, "lng": -48.087},
+			{"lat": -71.806, "lng": -49.054},
+			{"lat": -71.404, "lng": -50.021},
+			{"lat": -70.943, "lng": -50.812},
+			{"lat": -70.567, "lng": -51.164},
+			{"lat": -70.146, "lng": -51.669}
+		]
+	},
+	{
 		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
