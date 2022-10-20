@@ -2397,6 +2397,30 @@
 		]
 	},
 	{
+		"id": 2007,
+		"type": "Territories",
+		"title": "Raven",
+		"notes": "<edit this>",
+		"order": 0,
+		"strokecolor": "008000",
+		"fillcolor": "008000",
+		"latlngarray": [
+			{"lat": -62.631, "lng": 25.427},
+			{"lat": -62.672, "lng": 23.735},
+			{"lat": -62.101, "lng": 22.065},
+			{"lat": -61.478, "lng": 21.098},
+			{"lat": -60.970, "lng": 19.538},
+			{"lat": -59.908, "lng": 19.933},
+			{"lat": -59.196, "lng": 20.351},
+			{"lat": -59.554, "lng": 21.757},
+			{"lat": -60.259, "lng": 22.175},
+			{"lat": -60.767, "lng": 23.207},
+			{"lat": -60.970, "lng": 24.394},
+			{"lat": -61.268, "lng": 25.624},
+			{"lat": -62.019, "lng": 26.130}
+		]
+	},
+	{
 		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
