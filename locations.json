@@ -2421,6 +2421,25 @@
 		]
 	},
 	{
+		"id": 2008,
+		"type": "Territories",
+		"title": "Sinner's",
+		"notes": "Şerefsizler",
+		"order": 0,
+		"strokecolor": "9A4D00",
+		"fillcolor": "9A4D00",
+		"latlngarray": [
+			{"lat": -67.058, "lng": -49.464},
+			{"lat": -66.830, "lng": -48.618},
+			{"lat": -66.543, "lng": -47.398},
+			{"lat": -67.978, "lng": -45.278},
+			{"lat": -68.195, "lng": -46.168},
+			{"lat": -68.423, "lng": -47.343},
+			{"lat": -67.563, "lng": -48.804},
+			{"lat": -67.092, "lng": -46.596}
+		]
+	},
+	{
 		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
