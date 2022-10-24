@@ -2353,26 +2353,6 @@
 		]
 	},
 	{
-		"id": 2005,
-		"type": "Territories",
-		"title": "All!es",
-		"notes": "We are all!es",
-		"order": 0,
-		"strokecolor": "797DFF",
-		"fillcolor": "797DFF",
-		"latlngarray": [
-			{"lat": -74.131, "lng": 18.485},
-			{"lat": -73.331, "lng": 23.704},
-			{"lat": -74.313, "lng": 25.736},
-			{"lat": -75.475, "lng": 25.956},
-			{"lat": -76.153, "lng": 23.583},
-			{"lat": -76.336, "lng": 21.627},
-			{"lat": -75.661, "lng": 20.595},
-			{"lat": -74.747, "lng": 19.232},
-			{"lat": -73.812, "lng": 21.056}
-		]
-	},
-	{
 		"id": 2006,
 		"type": "Territories",
 		"title": "Black Mask",
