@@ -2422,6 +2422,52 @@
 		]
 	},
 	{
+		"id": 2009,
+		"type": "Territories",
+		"title": "Soul And Peace",
+		"notes": "Bikey",
+		"order": 0,
+		"strokecolor": "7A0000",
+		"fillcolor": "7A0000",
+		"latlngarray": [
+			{"lat": -54.582, "lng": -55.736},
+			{"lat": -55.625, "lng": -55.648},
+			{"lat": -56.204, "lng": -56.681},
+			{"lat": -56.714, "lng": -57.603},
+			{"lat": -56.990, "lng": -58.153},
+			{"lat": -56.544, "lng": -58.790},
+			{"lat": -56.106, "lng": -59.603},
+			{"lat": -55.613, "lng": -58.526},
+			{"lat": -55.126, "lng": -57.560},
+			{"lat": -54.658, "lng": -56.571}
+		]
+	},
+	{
+		"id": 2010,
+		"type": "Territories",
+		"title": "Mayhem MC",
+		"notes": "MAYHEEEEM",
+		"order": 0,
+		"strokecolor": "392F2F",
+		"fillcolor": "392F2F",
+		"latlngarray": [
+			{"lat": 23.908, "lng": 47.898},
+			{"lat": 24.490, "lng": 46.195},
+			{"lat": 25.118, "lng": 44.811},
+			{"lat": 25.743, "lng": 43.558},
+			{"lat": 26.286, "lng": 42.558},
+			{"lat": 25.723, "lng": 42.119},
+			{"lat": 25.148, "lng": 41.723},
+			{"lat": 24.660, "lng": 41.383},
+			{"lat": 24.029, "lng": 41.020},
+			{"lat": 22.931, "lng": 41.339},
+			{"lat": 23.072, "lng": 42.240},
+			{"lat": 23.244, "lng": 43.360},
+			{"lat": 23.486, "lng": 44.558},
+			{"lat": 23.738, "lng": 46.195}
+		]
+	},
+	{
 		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
