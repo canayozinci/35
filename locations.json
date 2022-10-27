@@ -2489,6 +2489,29 @@
 		]
 	},
 	{
+		"id": 2012,
+		"type": "Territories",
+		"title": "Devil's MC",
+		"notes": "Şeytanlar",
+		"order": 0,
+		"strokecolor": "E50909",
+		"fillcolor": "E50909",
+		"latlngarray": [
+			{"lat": -47.081, "lng": -12.500},
+			{"lat": -47.357, "lng": -11.423},
+			{"lat": -47.446, "lng": -10.632},
+			{"lat": -47.468, "lng": -9.874},
+			{"lat": -47.490, "lng": -9.467},
+			{"lat": -47.103, "lng": -9.445},
+			{"lat": -46.720, "lng": -9.347},
+			{"lat": -46.395, "lng": -9.160},
+			{"lat": -46.320, "lng": -9.929},
+			{"lat": -46.380, "lng": -10.632},
+			{"lat": -46.539, "lng": -11.280},
+			{"lat": -46.750, "lng": -11.884}
+		]
+	},
+	{
 		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
