@@ -2468,6 +2468,27 @@
 		]
 	},
 	{
+		"id": 2011,
+		"type": "Territories",
+		"title": "Dustmen With Attitute",
+		"notes": "Çöpçü krallar",
+		"order": 0,
+		"strokecolor": "3A1F17",
+		"fillcolor": "3A1F17",
+		"latlngarray": [
+			{"lat": -69.209, "lng": -18.258},
+			{"lat": -69.774, "lng": -18.301},
+			{"lat": -69.774, "lng": -16.291},
+			{"lat": -69.771, "lng": -14.050},
+			{"lat": -69.729, "lng": -12.567},
+			{"lat": -69.698, "lng": -11.413},
+			{"lat": -69.083, "lng": -11.435},
+			{"lat": -69.099, "lng": -12.852},
+			{"lat": -69.115, "lng": -14.182},
+			{"lat": -69.127, "lng": -16.236}
+		]
+	},
+	{
 		"id": 2038,
 		"type": "Territories",
 		"title": "The Grove Street Families",
