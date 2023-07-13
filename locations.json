@@ -2932,6 +2932,24 @@
 			{"lat": -35.264, "lng": -18.759}
 		]
 	},
+	{
+		"id": 3032,
+		"type": "Ticaret Hub",
+		"title": "TH",
+		"notes": "Şehirde legal yolla kazandığınız bütün eşyaları paraya çevirebilceğiniz yer.",
+		"order": 0,
+		"strokecolor": "00FCFC",
+		"fillcolor": "00FCFC",
+		"latlngarray": [
+			{"lat": -57.712, "lng": -4.459},
+			{"lat": -58.787, "lng": -5.118},
+			{"lat": -59.194, "lng": -4.646},
+			{"lat": -59.149, "lng": -3.701},
+			{"lat": -58.923, "lng": -2.822},
+			{"lat": -58.219, "lng": -1.899},
+			{"lat": -57.952, "lng": -3.119}
+		]
+	},
 
 
 
@@ -3587,6 +3605,21 @@
 			{"lat": -67.506, "lng": -33.467},
 			{"lat": -67.216, "lng": -33.221},
 			{"lat": -66.985, "lng": -33.133}
+		]
+	},
+	{
+		"id": 8005,
+		"type": "Restaurants",
+		"title": "La Literna",
+		"notes": "Meksika usulü yemekleri en güzel hazırlayan yer.",
+		"order": 0,
+		"strokecolor": "FFA112",
+		"fillcolor": "FFA112",
+		"latlngarray": [
+			{"lat": -57.952, "lng": -4.071},
+			{"lat": -58.196, "lng": -4.269},
+			{"lat": -58.323, "lng": -3.478},
+			{"lat": -57.972, "lng": -3.265}
 		]
 	},
 	{
