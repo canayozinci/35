@@ -2506,7 +2506,7 @@
 		"id": 3001,
 		"type": "Neutral",
 		"title": "Alta Street Apartments",
-		"notes": "The Apartments is where new players wake up.",
+		"notes": "",
 		"order": 0,
 		"strokecolor": "222222",
 		"fillcolor": "0080FF",
@@ -2521,7 +2521,7 @@
 		"id": 3002,
 		"type": "Neutral",
 		"title": "Bahama Mamas West",
-		"notes": "Bahama Mamas West is a nightclub located in Del Perro, Los Santos that is currently going through a new ownership process between Thomas Dwayne and Elena Vega.",
+		"notes": "",
 		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
@@ -2584,36 +2584,6 @@
 		]
 	},
 	{
-		"id": 3007,
-		"type": "Neutral",
-		"title": "Deans World",
-		"notes": "Çiftçi pazarının geceleri bittiği yer olan Deans dünyası, aynı zamanda bir şeyler satın alabileceğiniz, ana sahnede konserler düzenleyebileceğiniz ve bir rollercoaster'a binebileceğiniz yerdir.",
-		"order": 0,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": -66.009, "lng": -60.266},
-			{"lat": -66.738, "lng": -58.147},
-			{"lat": -69.045, "lng": -63.433},
-			{"lat": -68.394, "lng": -65.495}
-		]
-	},
-	{
-		"id": 3009,
-		"type": "Neutral",
-		"title": "Farmers Market",
-		"notes": "Created by Mayor Andi Jones to help people move out of the city, the Farmers Market is where aspiring business owners try to sell their stuff. It is operational only during the day from 8am to 7pm. At night, the vendors are directed to operate at the Night Market of Dean World in Los Santos.",
-		"order": 0,
-		"strokecolor": "0080FF",
-		"fillcolor": "0080FF",
-		"latlngarray": [
-			{"lat": 74.861, "lng": -23.289},
-			{"lat": 74.658, "lng": -22.509},
-			{"lat": 74.263, "lng": -23.982},
-			{"lat": 74.485, "lng": -24.795}
-		]
-	},
-	{
 		"id": 3010,
 		"type": "Neutral",
 		"title": "Golf Course",
@@ -2669,7 +2639,7 @@
 		"id": 3011,
 		"type": "Neutral",
 		"title": "Integrity Tower",
-		"notes": "The upgraded apartments for high-class citizens.",
+		"notes": "",
 		"order": 0,
 		"strokecolor": "222222",
 		"fillcolor": "0080FF",
@@ -2823,7 +2793,7 @@
 		"id": 3021,
 		"type": "Neutral",
 		"title": "Rich Apartments",
-		"notes": "The tier 3 apartments for high-class citizens.",
+		"notes": "",
 		"order": 0,
 		"strokecolor": "222222",
 		"fillcolor": "0080FF",
@@ -2966,26 +2936,10 @@
 
 
 	{
-		"id": 4001,
-		"type": "Automotive",
-		"title": "Beekers Garage & Parts",
-		"notes": "Repair shop",
-		"wiki_link": "",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CADA",
-		"latlngarray": [
-			{"lat": 78.059, "lng": -12.004},
-			{"lat": 77.942, "lng": -11.414},
-			{"lat": 77.875, "lng": -11.738},
-			{"lat": 77.991, "lng": -12.329}
-		]
-	},
-	{
 		"id": 4002,
 		"type": "Automotive",
 		"title": "Benny's Original Motor Works",
-		"notes": "South Side bölgesinde bulunan mekanik garaj",
+		"notes": "Şehirde aktif olan tek mekanik Şu anda",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -3015,26 +2969,12 @@
 			{"lat": -65.962, "lng": 7.949}
 		]
 	},
-	{
-		"id": 4007,
-		"type": "Automotive",
-		"title": "Harmony",
-		"notes": "Harmony Repairs Garage or Harmony to most, is a well-known repair shop owned by Jordan Walker in Northern Blaine County.",
-		"order": 0,
-		"strokecolor": "00CAD8",
-		"fillcolor": "00CAD8",
-		"latlngarray": [
-			{"lat": 14.563, "lng": 18.867},
-			{"lat": 14.563, "lng": 20.295},
-			{"lat": 13.177, "lng": 20.295},
-			{"lat": 13.177, "lng": 18.867}
-		]
-	},
+	
 	{
 		"id": 4008,
 		"type": "Automotive",
 		"title": "Hayes",
-		"notes": "The repair shop was previously owned by Igor Skovacic. Ownership has since been passed on to Shane Powers.",
+		"notes": "Sahibi Yok",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -3118,7 +3058,7 @@
 		"id": 4019,
 		"type": "Automotive",
 		"title": "Little Seoul Gas Station",
-		"notes": "A very popular gas station located in Little Seoul.",
+		"notes": "",
 		"order": 1,
 		"strokecolor": "00DA7D",
 		"fillcolor": "00CADA",
@@ -3337,33 +3277,14 @@
 			{"lat": -56.851, "lng": -33.394}
 		]
 	},
-	{
-		"id": 5011,
-		"type": "Heists",
-		"title": "Yacht Heist",
-		"notes": "The Yacht Heist provids VAR headsets for the VAR heist.",
-		"order": 0,
-		"strokecolor": "FFD700",
-		"fillcolor": "FFD700",
-		"latlngarray": [
-			{"lat": -68.189, "lng": -73.584},
-			{"lat": -68.189, "lng": -71.233},
-			{"lat": -68.608, "lng": -71.233},
-			{"lat": -68.608, "lng": -73.584}
-		],
-		"video": {
-			"yt_id": "",
-			"yt_user_display": "",
-			"yt_user_link": ""
-		}
-	},
+
 
 
 
 	{
 		"id": 6001,
 		"type": "Legal",
-		"title": "AirX Flight School",
+		"title": "Military Zone",
 		"notes": "*****",
 		"order": 0,
 		"strokecolor": "FF0000",
