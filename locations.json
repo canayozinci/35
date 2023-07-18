@@ -2500,6 +2500,25 @@
 			"yt_user_link": "c/BestGTAHighlights"
 		}
 	},
+	{
+		"id": 2049,
+		"type": "Territories",
+		"title": "Raven",
+		"notes": "Seviye 1",
+		"order": 1,
+		"strokecolor": "0F7209",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -72.804, "lng": -47.973},
+			{"lat": -72.931, "lng": -48.577},
+			{"lat": -72.726, "lng": -49.094},
+			{"lat": -72.519, "lng": -49.610},
+			{"lat": -72.350, "lng": -48.885},
+			{"lat": -72.207, "lng": -48.182},
+			{"lat": -72.374, "lng": -47.830},
+			{"lat": -72.651, "lng": -47.182}
+		]
+	},
 	
 
 	{
