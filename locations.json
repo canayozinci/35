@@ -2504,7 +2504,7 @@
 		"id": 2049,
 		"type": "Territories",
 		"title": "Raven",
-		"notes": "Seviye 1",
+		"notes": "Seviye 3",
 		"order": 1,
 		"strokecolor": "0F7209",
 		"fillcolor": "0F7209",
@@ -2517,6 +2517,25 @@
 			{"lat": -72.207, "lng": -48.182},
 			{"lat": -72.374, "lng": -47.830},
 			{"lat": -72.651, "lng": -47.182}
+		]
+	},
+	{
+		"id": 2050,
+		"type": "Territories",
+		"title": "Tyrants",
+		"notes": "Seviye 1",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -69.058, "lng": -33.002},
+			{"lat": -69.482, "lng": -34.650},
+			{"lat": -69.890, "lng": -33.848},
+			{"lat": -69.921, "lng": -32.958},
+			{"lat": -69.666, "lng": -32.222},
+			{"lat": -69.409, "lng": -31.552},
+			{"lat": -69.062, "lng": -31.222},
+			{"lat": -69.062, "lng": -32.079}
 		]
 	},
 	
