@@ -2538,6 +2538,51 @@
 			{"lat": -69.062, "lng": -32.079}
 		]
 	},
+
+	{
+		"id": 2051,
+		"type": "Territories",
+		"title": "Cosa Nostra",
+		"notes": "Los Santos, büyük şehirlerin kavşağında, ışıklarla süslü ve gizemle örülü bir metropol olarak yükselirdi.Fakat bu ışıltının ardında, sokakların karanlık yüzü gizlenmişti. Cosa Nostra adında bir çete, şehrin kalbinde sessizce gelişmekteydi.  ",
+		"order": 0,
+		"strokecolor": "#03c6fc",
+		"fillcolor": "#03c6fc",
+		"latlngarray": [
+			{"lat": -73.880, "lng": 18.762},
+			{"lat": -73.753, "lng": 19.842},
+			{"lat": -73.633, "lng": 20.775},
+			{"lat": -73.446, "lng": 21.863},
+			{"lat": -73.162, "lng": 23.269},
+			{"lat": -73.018, "lng": 22.863},
+			{"lat": -72.877, "lng": 22.599},
+			{"lat": -73.079, "lng": 21.566},
+			{"lat": -73.270, "lng": 20.512},
+			{"lat": -73.468, "lng": 19.424},
+			{"lat": -73.655, "lng": 18.996}
+		]
+	},
+	{
+		"id": 0,
+		"type": "Territories",
+		"title": "SnowBoys",
+		"notes": "Snowboys Afro-Amerikan, Mix bir çetedir. SouthWest yakasında 2017 yılından beri faaliyet göstermektedir, Çetenin OG'sinin uzun süredir kim olduğu bilgisi dışarıya yayılmamıştır.",
+		"order": 0,
+		"strokecolor": "#0af238",
+		"fillcolor": "#0af238",
+		"latlngarray": [
+			{"lat": -47.480, "lng": -9.425},
+			{"lat": -47.472, "lng": -10.359},
+			{"lat": -47.376, "lng": -11.238},
+			{"lat": -47.242, "lng": -11.941},
+			{"lat": -47.077, "lng": -12.490},
+			{"lat": -46.702, "lng": -11.787},
+			{"lat": -46.445, "lng": -10.886},
+			{"lat": -46.316, "lng": -10.194},
+			{"lat": -46.324, "lng": -9.513},
+			{"lat": -46.362, "lng": -9.206},
+			{"lat": -46.882, "lng": -9.414}
+		]
+	},
 	
 
 	{
