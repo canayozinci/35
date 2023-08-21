@@ -2545,8 +2545,8 @@
 		"title": "Cosa Nostra",
 		"notes": "Los Santos, büyük şehirlerin kavşağında, ışıklarla süslü ve gizemle örülü bir metropol olarak yükselirdi.Fakat bu ışıltının ardında, sokakların karanlık yüzü gizlenmişti. Cosa Nostra adında bir çete, şehrin kalbinde sessizce gelişmekteydi.  ",
 		"order": 0,
-		"strokecolor": "#03c6fc",
-		"fillcolor": "#03c6fc",
+		"strokecolor": "07FCDB",
+		"fillcolor": "07FCDB",
 		"latlngarray": [
 			{"lat": -73.880, "lng": 18.762},
 			{"lat": -73.753, "lng": 19.842},
@@ -2567,8 +2567,8 @@
 		"title": "SnowBoys",
 		"notes": "Snowboys Afro-Amerikan, Mix bir çetedir. SouthWest yakasında 2017 yılından beri faaliyet göstermektedir, Çetenin OG'sinin uzun süredir kim olduğu bilgisi dışarıya yayılmamıştır.",
 		"order": 0,
-		"strokecolor": "##fa6b05",
-		"fillcolor": "##fa6b05",
+		"strokecolor": "FC3207",
+		"fillcolor": "FC3207",
 		"latlngarray": [
 			{"lat": -47.480, "lng": -9.425},
 			{"lat": -47.472, "lng": -10.359},
