@@ -2612,6 +2612,31 @@
 			{"lat": 58.693, "lng": 91.243}
 		]
 	},
+	{
+		"id": 2054,
+		"type": "Territories",
+		"title": "Black Mask",
+		"notes": "Eski bir mc üyesi bir dj bir mekanik ve iki kardeş bunları bi araya getiren kader ise ülkenin ekonomik konumunda artık kimsenin legal bir şekilde hayallerini gerçekleştiremeyecek olması. Tamamiyle şans eseri bir araya gelen Black Mask ekibi aldıkları yegane kararla kendilerini uwu kafenin sahibi sıfatıyla gizleyip minimum her türlü illegal işe parmak basarak bir gün milyonlarla oynayan en büyük ekip olmanın hayaliyle yaşamaktalar.",
+		"order": 0,
+		"strokecolor": "050000",
+		"fillcolor": "050000",
+		"latlngarray": [
+			{"lat": -66.225, "lng": -55.534},
+			{"lat": -66.445, "lng": -55.171},
+			{"lat": -66.651, "lng": -54.842},
+			{"lat": -66.867, "lng": -54.534},
+			{"lat": -67.022, "lng": -54.249},
+			{"lat": -66.984, "lng": -53.370},
+			{"lat": -66.975, "lng": -52.776},
+			{"lat": -66.958, "lng": -52.216},
+			{"lat": -66.498, "lng": -52.469},
+			{"lat": -66.100, "lng": -52.743},
+			{"lat": -65.760, "lng": -53.238},
+			{"lat": -65.497, "lng": -53.776},
+			{"lat": -65.746, "lng": -54.457},
+			{"lat": -65.966, "lng": -54.974}
+		]
+	},
 	
 
 	{
