@@ -2643,8 +2643,8 @@
 		"title": "Kostroma Villian's",
 		"notes": "Hayatta kalmak için geldikleri bu yerde hayatta kalmak için bildiklerini yapmak. Los Santos'ta rehaf içinde bir yaşam sürmek vizyonuyla bildikleri ve anladıkları işler ile yaşamlarını idam ettirmek.",
 		"order": 0,
-		"strokecolor": "FFFFFF",
-		"fillcolor": "FFFFFF",
+		"strokecolor": "0800FF",
+		"fillcolor": "0800FF",
 		"latlngarray": [
 			{"lat": -74.042, "lng": 19.289},
 			{"lat": -74.314, "lng": 19.948},
