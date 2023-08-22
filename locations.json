@@ -2637,6 +2637,28 @@
 			{"lat": -65.966, "lng": -54.974}
 		]
 	},
+	{
+		"id": 2055,
+		"type": "Territories",
+		"title": "Kostroma Villian's",
+		"notes": "Hayatta kalmak için geldikleri bu yerde hayatta kalmak için bildiklerini yapmak. Los Santos'ta rehaf içinde bir yaşam sürmek vizyonuyla bildikleri ve anladıkları işler ile yaşamlarını idam ettirmek.",
+		"order": 0,
+		"strokecolor": "FFFFFF",
+		"fillcolor": "FFFFFF",
+		"latlngarray": [
+			{"lat": -74.042, "lng": 19.289},
+			{"lat": -74.314, "lng": 19.948},
+			{"lat": -74.258, "lng": 20.970},
+			{"lat": -74.108, "lng": 22.277},
+			{"lat": -73.936, "lng": 23.562},
+			{"lat": -73.841, "lng": 24.925},
+			{"lat": -73.567, "lng": 24.276},
+			{"lat": -73.329, "lng": 23.672},
+			{"lat": -73.542, "lng": 22.585},
+			{"lat": -73.725, "lng": 21.585},
+			{"lat": -73.884, "lng": 20.442}
+		]
+	},
 	
 
 	{
