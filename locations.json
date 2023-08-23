@@ -2659,8 +2659,8 @@
 		"title": "Jack Boys",
 		"notes": "New gang",
 		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
+		"strokecolor": "c4ff19",
+		"fillcolor": "c4ff19",
 		"latlngarray": [
 			{"lat": -73.655, "lng": -12.738},
 			{"lat": -73.928, "lng": -11.562},
