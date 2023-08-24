@@ -2545,28 +2545,6 @@
 	},
 
 	{
-		"id": 2051,
-		"type": "Territories",
-		"title": "Cosa Nostra",
-		"notes": "Los Santos, büyük şehirlerin kavşağında, ışıklarla süslü ve gizemle örülü bir metropol olarak yükselirdi.Fakat bu ışıltının ardında, sokakların karanlık yüzü gizlenmişti. Cosa Nostra adında bir çete, şehrin kalbinde sessizce gelişmekteydi.  ",
-		"order": 0,
-		"strokecolor": "07FCDB",
-		"fillcolor": "07FCDB",
-		"latlngarray": [
-			{"lat": -73.880, "lng": 18.762},
-			{"lat": -73.753, "lng": 19.842},
-			{"lat": -73.633, "lng": 20.775},
-			{"lat": -73.446, "lng": 21.863},
-			{"lat": -73.162, "lng": 23.269},
-			{"lat": -73.018, "lng": 22.863},
-			{"lat": -72.877, "lng": 22.599},
-			{"lat": -73.079, "lng": 21.566},
-			{"lat": -73.270, "lng": 20.512},
-			{"lat": -73.468, "lng": 19.424},
-			{"lat": -73.655, "lng": 18.996}
-		]
-	},
-	{
 		"id": 2052,
 		"type": "Territories",
 		"title": "SnowBoys",
