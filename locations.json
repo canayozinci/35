@@ -2641,27 +2641,27 @@
 		]
 	},
 	{
-		"id": 0,
+		"id": 2056,
 		"type": "Territories",
-		"title": "Jack Boys",
-		"notes": "New gang",
+		"title": "RedLine",
+		"notes": "Japonyada belli bir süre tek başına yaşamaya çalışan Hidra araç sürüşüne güvendiği için Japonyadaki yarışlara katılıp para kazanmaya başlar. Yarışlardaki ortamlardan dolayı tanınmaya başlamıştır. Belli bir süre geçtikten sonra belli ekiplerden teklif alan Hidra Kevin Carlos'un teklifi üzerine yeni bir ekip kurmaya karar verirler.",
 		"order": 0,
-		"strokecolor": "c4ff19",
-		"fillcolor": "c4ff19",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -73.655, "lng": -12.738},
-			{"lat": -73.928, "lng": -11.562},
-			{"lat": -74.124, "lng": -10.705},
-			{"lat": -74.280, "lng": -9.947},
-			{"lat": -74.043, "lng": -8.618},
-			{"lat": -73.836, "lng": -7.926},
-			{"lat": -73.633, "lng": -7.344},
-			{"lat": -73.412, "lng": -8.266},
-			{"lat": -73.108, "lng": -9.431},
-			{"lat": -73.261, "lng": -10.464},
-			{"lat": -73.421, "lng": -11.408}
+			{"lat": -74.301, "lng": 5.964},
+			{"lat": -74.346, "lng": 8.139},
+			{"lat": -74.923, "lng": 7.829},
+			{"lat": -75.446, "lng": 7.422},
+			{"lat": -76.005, "lng": 6.948},
+			{"lat": -76.462, "lng": 6.711},
+			{"lat": -76.457, "lng": 5.887},
+			{"lat": -76.044, "lng": 5.360},
+			{"lat": -75.448, "lng": 5.557},
+			{"lat": -74.820, "lng": 5.744}
 		]
 	},
+	
 	
 
 	{
