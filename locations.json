@@ -2661,6 +2661,21 @@
 			{"lat": -74.820, "lng": 5.744}
 		]
 	},
+	{
+		"id": 2056,
+		"type": "Territories",
+		"title": "187",
+		"notes": "New gang in town",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -69.272, "lng": 4.635},
+			{"lat": -69.256, "lng": 7.886},
+			{"lat": -71.476, "lng": 7.755},
+			{"lat": -71.476, "lng": 4.129}
+		]
+	},
 	
 	
 
