@@ -2333,95 +2333,223 @@
 		]
 	},
 	
-	{
-		"id": 2045,
-		"type": "Territories",
-		"title": "Vagos",
-		"notes": "Vagos olarak da bilinen Eastside Vagos (ESV), şu anda el Jefe, Juan 'Speedy' Vialpando tarafından yönetilen bir Meksikalı sokak çetesidir. Jamestown bölgesinde bulunan Barrio'nun dışında faaliyet gösteriyorlar. Los Santos'taki en büyük Hispanik sokak çetesi oldukları söyleniyor. Çetenin ana işi, silahları, uyuşturucuları ve diğer çeşitli yasal ve cezai faaliyetleri zorlamak etrafında döner.",
-		"order": 0,
-		"strokecolor": "FFFF00",
-		"fillcolor": "FFFF00",
-		"latlngarray": [
-			{"lat": -76.476, "lng": -13.101},
-			{"lat": -76.481, "lng": -10.134},
-			{"lat": -76.320, "lng": -10.046},
-			{"lat": -76.200, "lng": -9.948},
-			{"lat": -75.694, "lng": -8.212},
-			{"lat": -75.275, "lng": -6.795},
-			{"lat": -74.396, "lng": -3.993},
-			{"lat": -73.525, "lng": -1.301},
-			{"lat": -73.907, "lng": 0.402},
-			{"lat": -74.152, "lng": 1.819},
-			{"lat": -74.233, "lng": 2.830},
-			{"lat": -74.280, "lng": 4.060},
-			{"lat": -74.357, "lng": 3.752},
-			{"lat": -75.295, "lng": 3.401},
-			{"lat": -76.341, "lng": 2.775},
-			{"lat": -76.534, "lng": 2.456},
-			{"lat": -76.811, "lng": 2.324},
-			{"lat": -76.990, "lng": 2.489},
-			{"lat": -77.164, "lng": 2.544},
-			{"lat": -77.528, "lng": 2.456},
-			{"lat": -78.453, "lng": 2.093},
-			{"lat": -78.619, "lng": 1.973},
-			{"lat": -78.716, "lng": 1.698},
-			{"lat": -78.772, "lng": 1.269},
-			{"lat": -78.770, "lng": 0.281},
-			{"lat": -79.121, "lng": -2.433},
-			{"lat": -79.135, "lng": -3.811},
-			{"lat": -79.209, "lng": -5.546},
-			{"lat": -79.227, "lng": -6.129},
-			{"lat": -79.313, "lng": -7.106},
-			{"lat": -79.388, "lng": -9.183},
-			{"lat": -79.411, "lng": -9.589},
-			{"lat": -79.553, "lng": -10.424},
-			{"lat": -79.573, "lng": -10.413},
-			{"lat": -79.660, "lng": -11.138},
-			{"lat": -79.701, "lng": -11.743},
-			{"lat": -79.725, "lng": -12.918},
-			{"lat": -79.481, "lng": -13.577},
-			{"lat": -79.095, "lng": -11.798},
-			{"lat": -78.955, "lng": -11.237},
-			{"lat": -78.913, "lng": -11.248},
-			{"lat": -78.813, "lng": -11.940},
-			{"lat": -78.544, "lng": -11.446},
-			{"lat": -78.185, "lng": -11.622},
-			{"lat": -78.049, "lng": -12.925},
-			{"lat": -76.609, "lng": -12.925}
-		],
-		"video": {
-			"yt_id": "M6R1aWQXFao",
-			"yt_user_display": "MaximusBlack",
-			"yt_user_link": "user/maximusblack"
-		}
-	},
+	
 
 	{
-		"id": 2050,
+		"id": 2051,
 		"type": "Territories",
-		"title": "Tyrants",
-		"notes": "Yıllardır şehrin yeraltı dünyasında varlık gösteren, kökeni Asya'ya dayanan gizemli bir çete vardı: Tyrants. Tyrants çetesi, her tür suçu işleyen ve korku salan üyeleriyle şehri adeta gölgelemişti. Çete lideri, cesur ve kurnaz Tony Z Addagio idi.Z, adını yıllar içinde acımasızlığı ve gözüpekliğiyle duyurmuştu. İktidarının zirvesindeyken bile, ölümüne yol açacak kanlı yollardan kaçınan Tony, kendi yöntemleriyle düzeni sağlamaya çalışıyordu.",
+		"title": "Bir Numaralı Çete",
+		"notes": "Düzenlenecek>",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -69.982, "lng": -33.165},
-			{"lat": -69.495, "lng": -34.659},
-			{"lat": -68.926, "lng": -35.868},
-			{"lat": -68.503, "lng": -36.747},
-			{"lat": -67.941, "lng": -37.582},
-			{"lat": -67.297, "lng": -38.504},
-			{"lat": -66.929, "lng": -37.010},
-			{"lat": -66.765, "lng": -35.121},
-			{"lat": -66.774, "lng": -33.868},
-			{"lat": -66.757, "lng": -32.748},
-			{"lat": -66.783, "lng": -30.902},
-			{"lat": -67.424, "lng": -30.814},
-			{"lat": -68.048, "lng": -30.792},
-			{"lat": -68.640, "lng": -30.880},
-			{"lat": -69.240, "lng": -31.275}
+			{"lat": -71.718, "lng": 0.073},
+			{"lat": -71.656, "lng": -1.333},
+			{"lat": -72.342, "lng": -4.937},
+			{"lat": -73.169, "lng": -1.619},
+			{"lat": -72.395, "lng": -0.015}
 		]
 	},
+	{
+		"id": 2052,
+		"type": "Territories",
+		"title": "İki Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -68.741, "lng": -8.212},
+			{"lat": -70.242, "lng": -8.113},
+			{"lat": -70.404, "lng": -5.103},
+			{"lat": -69.814, "lng": -3.685},
+			{"lat": -69.787, "lng": -0.708},
+			{"lat": -68.737, "lng": -0.708},
+			{"lat": -68.729, "lng": -4.235}
+		]
+	},
+	{
+		"id": 2053,
+		"type": "Territories",
+		"title": "Üç Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -72.202, "lng": -19.994},
+			{"lat": -72.835, "lng": -21.994},
+			{"lat": -73.934, "lng": -22.082},
+			{"lat": -74.408, "lng": -20.016},
+			{"lat": -73.855, "lng": -18.303},
+			{"lat": -73.163, "lng": -16.193},
+			{"lat": -72.646, "lng": -18.149}
+		]
+	},
+	{
+		"id": 2054,
+		"type": "Territories",
+		"title": "Üç Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -68.741, "lng": -8.212},
+			{"lat": -70.242, "lng": -8.113},
+			{"lat": -70.404, "lng": -5.103},
+			{"lat": -69.814, "lng": -3.685},
+			{"lat": -69.787, "lng": -0.708},
+			{"lat": -68.737, "lng": -0.708},
+			{"lat": -68.729, "lng": -4.235}
+		]
+	},
+	{
+		"id": 2055,
+		"type": "Territories",
+		"title": "4 Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -73.513, "lng": -1.191},
+			{"lat": -74.263, "lng": -3.477},
+			{"lat": -74.744, "lng": -1.433},
+			{"lat": -75.267, "lng": 0.105},
+			{"lat": -74.911, "lng": 1.775},
+			{"lat": -74.167, "lng": 2.148},
+			{"lat": -73.883, "lng": 0.369}
+		]
+	},
+	{
+		"id": 2056,
+		"type": "Territories",
+		"title": "5 Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -71.913, "lng": -19.795},
+			{"lat": -71.594, "lng": -18.927},
+			{"lat": -71.500, "lng": -17.696},
+			{"lat": -71.842, "lng": -17.180},
+			{"lat": -72.245, "lng": -18.367},
+			{"lat": -72.070, "lng": -19.147}
+		]
+	},
+	{
+		"id": 2057,
+		"type": "Territories",
+		"title": "6 Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.610, "lng": -14.777},
+			{"lat": -75.081, "lng": -16.293},
+			{"lat": -75.847, "lng": -13.283},
+			{"lat": -76.302, "lng": -12.272},
+			{"lat": -76.328, "lng": -10.954},
+			{"lat": -75.911, "lng": -10.228},
+			{"lat": -75.559, "lng": -8.998},
+			{"lat": -75.109, "lng": -12.272}
+		]
+	},
+	{
+		"id": 2057,
+		"type": "Territories",
+		"title": "7 Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -76.609, "lng": -7.720},
+			{"lat": -76.135, "lng": -6.061},
+			{"lat": -75.734, "lng": -4.556},
+			{"lat": -76.085, "lng": -3.160},
+			{"lat": -76.542, "lng": -1.227},
+			{"lat": -76.908, "lng": -2.655},
+			{"lat": -77.194, "lng": -4.391},
+			{"lat": -76.928, "lng": -6.302}
+
+		]
+	},
+	{
+		"id": 2058,
+		"type": "Territories",
+		"title": "8 Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.292, "lng": -3.529},
+			{"lat": -73.512, "lng": -1.243},
+			{"lat": -73.864, "lng": 0.382},
+			{"lat": -74.160, "lng": 2.140},
+			{"lat": -74.956, "lng": 1.789},
+			{"lat": -75.283, "lng": 0.009},
+			{"lat": -74.732, "lng": -1.639}
+		]
+	},
+	{
+		"id": 2059,
+		"type": "Territories",
+		"title": "9 Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.153, "lng": 18.474},
+			{"lat": -74.868, "lng": 19.374},
+			{"lat": -74.585, "lng": 22.319},
+			{"lat": -74.314, "lng": 25.615},
+			{"lat": -73.303, "lng": 23.769},
+			{"lat": -73.789, "lng": 21.242}
+		]
+	},
+	{
+		"id": 2060,
+		"type": "Territories",
+		"title": "10 Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -76.323, "lng": 24.527},
+			{"lat": -76.666, "lng": 23.252},
+			{"lat": -77.276, "lng": 23.911},
+			{"lat": -76.947, "lng": 25.098},
+			{"lat": -76.600, "lng": 26.944},
+			{"lat": -76.060, "lng": 26.197}
+		]
+	},
+	{
+		"id": 2061,
+		"type": "Territories",
+		"title": "11 Numaralı Çete",
+		"notes": "Düzenlenecek",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -73.038, "lng": -48.417},
+			{"lat": -72.776, "lng": -46.989},
+			{"lat": -73.150, "lng": -45.978},
+			{"lat": -73.496, "lng": -44.836},
+			{"lat": -73.686, "lng": -45.638},
+			{"lat": -73.849, "lng": -46.462},
+			{"lat": -73.428, "lng": -47.527}
+		]
+	},
+
 
 
 
@@ -2617,8 +2745,8 @@
 	{
 		"id": 3015,
 		"type": "Neutral",
-		"title": "Fame Or Shame Studios",
-		"notes": "Sunucular eşliğinde yapılan yarışma programlarının yapıldığı stüdyo",
+		"title": "Paintball Arena",
+		"notes": "Arkadaşlarınla gidip paintball oynayıp eğleneceğin bir arena.",
 		"order": 0,
 		"strokecolor": "0080FF",
 		"fillcolor": "0080FF",
