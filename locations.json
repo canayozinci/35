@@ -2338,7 +2338,7 @@
 	{
 		"id": 2051,
 		"type": "Territories",
-		"title": "1 Numaralı Çete",
+		"title": "Boys of Young",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2372,7 +2372,7 @@
 	{
 		"id": 2053,
 		"type": "Territories",
-		"title": "3 Numaralı Çete",
+		"title": "Crusaders",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2390,7 +2390,7 @@
 	{
 		"id": 2054,
 		"type": "Territories",
-		"title": "4 Numaralı Çete",
+		"title": "Hawks Shadow",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2408,7 +2408,7 @@
 	{
 		"id": 2055,
 		"type": "Territories",
-		"title": "5 Numaralı Çete",
+		"title": "Ocean",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2426,18 +2426,17 @@
 	{
 		"id": 2056,
 		"type": "Territories",
-		"title": "5 Numaralı Çete",
+		"title": "WestSide Creeps",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
 		"fillcolor": "FF0000",
 		"latlngarray": [
-			{"lat": -71.913, "lng": -19.795},
-			{"lat": -71.594, "lng": -18.927},
-			{"lat": -71.500, "lng": -17.696},
-			{"lat": -71.842, "lng": -17.180},
-			{"lat": -72.245, "lng": -18.367},
-			{"lat": -72.070, "lng": -19.147}
+			{"lat": -72.390, "lng": -17.786},
+			{"lat": -72.950, "lng": -15.632},
+			{"lat": -72.237, "lng": -13.655},
+			{"lat": -71.943, "lng": -14.797},
+			{"lat": -71.977, "lng": -16.654}
 		]
 	},
 	{
@@ -2462,7 +2461,7 @@
 	{
 		"id": 2057,
 		"type": "Territories",
-		"title": "7 Numaralı Çete",
+		"title": "Soldi O Niente",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2483,7 +2482,7 @@
 	{
 		"id": 2059,
 		"type": "Territories",
-		"title": "8 Numaralı Çete",
+		"title": "DS",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2500,7 +2499,7 @@
 	{
 		"id": 2060,
 		"type": "Territories",
-		"title": "9 Numaralı Çete",
+		"title": "Non3",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2517,7 +2516,7 @@
 	{
 		"id": 2061,
 		"type": "Territories",
-		"title": "10 Numaralı Çete",
+		"title": "Forever",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2546,6 +2545,28 @@
 			{"lat": -73.046, "lng": 23.830},
 			{"lat": -72.240, "lng": 27.763},
 			{"lat": -71.847, "lng": 26.720}
+		]
+	},
+
+	{
+		"id": 2063,
+		"type": "Territories",
+		"title": "35st",
+		"notes": "xxx",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -75.744, "lng": -9.768},
+			{"lat": -75.372, "lng": -12.294},
+			{"lat": -74.933, "lng": -13.371},
+			{"lat": -74.627, "lng": -14.777},
+			{"lat": -75.080, "lng": -16.184},
+			{"lat": -75.444, "lng": -14.580},
+			{"lat": -75.809, "lng": -13.503},
+			{"lat": -76.081, "lng": -12.360},
+			{"lat": -76.307, "lng": -11.108},
+			{"lat": -75.970, "lng": -10.515}
 		]
 	},
 
