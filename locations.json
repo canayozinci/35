@@ -2533,6 +2533,25 @@
 		]
 	},
 
+	{
+		"id": 2062,
+		"type": "Territories",
+		"title": "WestMinster",
+		"notes": "XXXXX",
+		"order": 0,
+		"strokecolor": "#8a46ff",
+		"fillcolor": "#8a46ff",
+		"latlngarray": [
+			{"lat": -73.038, "lng": -48.417},
+			{"lat": -72.776, "lng": -46.989},
+			{"lat": -73.150, "lng": -45.978},
+			{"lat": -73.496, "lng": -44.836},
+			{"lat": -73.686, "lng": -45.638},
+			{"lat": -73.849, "lng": -46.462},
+			{"lat": -73.428, "lng": -47.527}
+		]
+	},
+
 
 
 
