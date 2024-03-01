@@ -2338,7 +2338,7 @@
 	{
 		"id": 2051,
 		"type": "Territories",
-		"title": "Bir Numaralı Çete",
+		"title": "1 Numaralı Çete",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2354,7 +2354,7 @@
 	{
 		"id": 2052,
 		"type": "Territories",
-		"title": "İki Numaralı Çete",
+		"title": "2 Numaralı Çete",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2372,7 +2372,7 @@
 	{
 		"id": 2053,
 		"type": "Territories",
-		"title": "Üç Numaralı Çete",
+		"title": "3 Numaralı Çete",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2390,7 +2390,7 @@
 	{
 		"id": 2054,
 		"type": "Territories",
-		"title": "Üç Numaralı Çete",
+		"title": "4 Numaralı Çete",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2479,28 +2479,11 @@
 
 		]
 	},
-	{
-		"id": 2058,
-		"type": "Territories",
-		"title": "8 Numaralı Çete",
-		"notes": "Düzenlenecek",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -74.292, "lng": -3.529},
-			{"lat": -73.512, "lng": -1.243},
-			{"lat": -73.864, "lng": 0.382},
-			{"lat": -74.160, "lng": 2.140},
-			{"lat": -74.956, "lng": 1.789},
-			{"lat": -75.283, "lng": 0.009},
-			{"lat": -74.732, "lng": -1.639}
-		]
-	},
+
 	{
 		"id": 2059,
 		"type": "Territories",
-		"title": "9 Numaralı Çete",
+		"title": "8 Numaralı Çete",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2517,7 +2500,7 @@
 	{
 		"id": 2060,
 		"type": "Territories",
-		"title": "10 Numaralı Çete",
+		"title": "9 Numaralı Çete",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
@@ -2534,7 +2517,7 @@
 	{
 		"id": 2061,
 		"type": "Territories",
-		"title": "11 Numaralı Çete",
+		"title": "10 Numaralı Çete",
 		"notes": "Düzenlenecek",
 		"order": 0,
 		"strokecolor": "FF0000",
