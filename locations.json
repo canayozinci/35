@@ -2570,6 +2570,22 @@
 		]
 	},
 
+	{
+		"id": 2064,
+		"type": "Territories",
+		"title": "Warders of Los Santos",
+		"notes": "MC Club house",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": 49.223, "lng": 57.904},
+			{"lat": 48.289, "lng": 57.102},
+			{"lat": 48.010, "lng": 57.751},
+			{"lat": 49.108, "lng": 58.619}
+		]
+	},
+
 	
 
 
@@ -3623,7 +3639,7 @@
 			{"lat": -71.673, "lng": -7.439}
 		]
 	},
-	
+
 	{
 		"id": 7005,
 		"type": "Medical",
