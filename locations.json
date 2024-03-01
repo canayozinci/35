@@ -3516,22 +3516,7 @@
 			{"lat": -73.049, "lng": -3.275}
 		]
 	},
-	{
-		"id": 6004,
-		"type": "Legal",
-		"title": "Çekilmiş Araç otoparkı",
-		"notes": "Polis tarafından çekilen araçlar bu otoparkta bulunur.",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "0000FF",
-		"latlngarray": [
-			{"lat": -68.824, "lng": -22.398},
-			{"lat": -68.799, "lng": -18.344},
-			{"lat": -69.088, "lng": -18.355},
-			{"lat": -69.151, "lng": -19.146},
-			{"lat": -69.112, "lng": -22.398}
-		]
-	},
+
 	{
 		"id": 6005,
 		"type": "Legal",
