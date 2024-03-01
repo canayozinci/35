@@ -3674,6 +3674,25 @@
 		]
 	},
 
+	{
+		"id": 7007,
+		"type": "Medical",
+		"title": "Medical Center",
+		"notes": "Tıp Merkezi, Los Santos'taki ana hastanedir. Medical Center , Los Santos kentinde yüksek tıbbın merkezidir. Acil Sağlık Hizmetlerine ev sahipliği yapar, ancak EMS hastane tarafından sahiplenilmez veya finanse edilmez. Şehirdeki diğer devlet kurumlarıyla birlikte çalışırlar ve rutin olarak onlara gerekli yüksek tıbbi hizmetleri verirler.",
+		"order": 0,
+		"strokecolor": "FF005A",
+		"fillcolor": "FF005A",
+		"latlngarray": [
+			{"lat": -61.606, "lng": -6.451},
+			{"lat": -61.663, "lng": -5.034},
+			{"lat": -61.715, "lng": -4.034},
+			{"lat": -61.731, "lng": -3.199},
+			{"lat": -62.405, "lng": -4.111},
+			{"lat": -62.765, "lng": -4.475},
+			{"lat": -62.371, "lng": -7.168}
+		]
+	},
+
 
 
 	{
