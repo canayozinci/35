@@ -3623,27 +3623,7 @@
 			{"lat": -71.673, "lng": -7.439}
 		]
 	},
-	{
-		"id": 7003,
-		"type": "Medical",
-		"title": "Grandma's",
-		"notes": "Bir çatışmadan sonra illegal kişilerin kolluk kuvvetlerine denk gelmemesi için gittiği kişi.",
-		"order": 0,
-		"strokecolor": "FF005A",
-		"fillcolor": "FF005A",
-		"latlngarray": [
-			{"lat": 63.316, "lng": 56.517},
-			{"lat": 63.175, "lng": 56.776},
-			{"lat": 63.051, "lng": 56.918},
-			{"lat": 62.976, "lng": 56.907},
-			{"lat": 62.801, "lng": 56.787},
-			{"lat": 62.725, "lng": 56.721},
-			{"lat": 62.614, "lng": 56.501},
-			{"lat": 62.319, "lng": 55.864},
-			{"lat": 62.197, "lng": 55.556},
-			{"lat": 62.523, "lng": 54.864}
-		]
-	},
+	
 	{
 		"id": 7005,
 		"type": "Medical",
