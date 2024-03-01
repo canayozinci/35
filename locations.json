@@ -2352,24 +2352,6 @@
 		]
 	},
 	{
-		"id": 2052,
-		"type": "Territories",
-		"title": "2 Numaralı Çete",
-		"notes": "Düzenlenecek",
-		"order": 0,
-		"strokecolor": "FF0000",
-		"fillcolor": "FF0000",
-		"latlngarray": [
-			{"lat": -68.741, "lng": -8.212},
-			{"lat": -70.242, "lng": -8.113},
-			{"lat": -70.404, "lng": -5.103},
-			{"lat": -69.814, "lng": -3.685},
-			{"lat": -69.787, "lng": -0.708},
-			{"lat": -68.737, "lng": -0.708},
-			{"lat": -68.729, "lng": -4.235}
-		]
-	},
-	{
 		"id": 2053,
 		"type": "Territories",
 		"title": "Crusaders",
