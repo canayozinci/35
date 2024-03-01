@@ -3683,16 +3683,16 @@
 	{
 		"id": 8001,
 		"type": "Restaurants",
-		"title": "Burger Shot",
+		"title": "Horny's Burger",
 		"notes": "Şehirde daha hizmetine başlamayan bir fast-food zinciri",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
-			{"lat": -66.046, "lng": -50.898},
-			{"lat": -65.492, "lng": -48.888},
-			{"lat": -66.322, "lng": -47.603},
-			{"lat": -66.828, "lng": -49.767}
+			{"lat": -58.416, "lng": 20.732},
+			{"lat": -58.964, "lng": 20.611},
+			{"lat": -59.145, "lng": 21.611},
+			{"lat": -58.370, "lng": 21.930}
 		],
 		"video": {
 			"yt_id": "",
@@ -3702,16 +3702,16 @@
 	{
 		"id": 8002,
 		"type": "Restaurants",
-		"title": "Maldini's Pizzeria",
+		"title": "Cool Beans",
 		"notes": "Şehirde daha hizmetine başlamayan bir restorant",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
-			{"lat": -65.419, "lng": -33.103},
-			{"lat": -65.419, "lng": -31.476},
-			{"lat": -66.087, "lng": -31.476},
-			{"lat": -66.087, "lng": -33.103}
+			{"lat": -68.472, "lng": -50.014},
+			{"lat": -68.729, "lng": -49.882},
+			{"lat": -68.677, "lng": -49.179},
+			{"lat": -68.380, "lng": -49.354}
 		]
 	},
 	{
@@ -3751,33 +3751,32 @@
 	{
 		"id": 8005,
 		"type": "Restaurants",
-		"title": "La Literna",
+		"title": "Taco's Hut",
 		"notes": "Meksika usulü yemekleri en güzel hazırlayan yer.",
 		"order": 0,
 		"strokecolor": "FFA112",
 		"fillcolor": "FFA112",
 		"latlngarray": [
-			{"lat": -57.952, "lng": -4.071},
-			{"lat": -58.196, "lng": -4.269},
-			{"lat": -58.323, "lng": -3.478},
-			{"lat": -57.972, "lng": -3.265}
+			{"lat": -73.238, "lng": -14.353},
+			{"lat": -73.094, "lng": -14.990},
+			{"lat": -72.863, "lng": -14.287},
+			{"lat": -72.992, "lng": -13.540}
 		]
 	},
 	{
 		"id": 8005,
 		"type": "Restaurants",
-		"title": "Up n Atom",
+		"title": "Tiki Bar",
 		"notes": "Şehirde daha hizmetine başlamayan bir restorant",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
-			{"lat": -47.178, "lng": -12.779},
-			{"lat": -47.387, "lng": -11.978},
-			{"lat": -48.388, "lng": -12.538},
-			{"lat": -48.118, "lng": -13.626},
-			{"lat": -47.333, "lng": -13.133}
+			{"lat": -73.964, "lng": -50.144},
+			{"lat": -74.395, "lng": -48.639},
+			{"lat": -73.976, "lng": -46.617},
+			{"lat": -73.552, "lng": -47.716}
 		]
 	}
 ]
