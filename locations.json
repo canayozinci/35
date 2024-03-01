@@ -3460,6 +3460,22 @@
 		]
 	},
 
+	{
+		"id": 5011,
+		"type": "Territories",
+		"title": "Bob Cat",
+		"notes": "Bob Cat Security şirketinin deposu",
+		"order": 0,
+		"strokecolor": "FFD700",
+		"fillcolor": "FFD700",
+		"latlngarray": [
+			{"lat": -77.804, "lng": 10.046},
+			{"lat": -77.825, "lng": 11.353},
+			{"lat": -78.248, "lng": 11.211},
+			{"lat": -78.235, "lng": 9.914}
+		]
+	},
+
 
 
 
