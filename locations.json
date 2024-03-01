@@ -2539,16 +2539,13 @@
 		"title": "WestMinster",
 		"notes": "XXXXX",
 		"order": 0,
-		"strokecolor": "b103fc",
-		"fillcolor": "b103fc",
+		"strokecolor": "ff00ff",
+		"fillcolor": "ff00ff",
 		"latlngarray": [
-			{"lat": -73.038, "lng": -48.417},
-			{"lat": -72.776, "lng": -46.989},
-			{"lat": -73.150, "lng": -45.978},
-			{"lat": -73.496, "lng": -44.836},
-			{"lat": -73.686, "lng": -45.638},
-			{"lat": -73.849, "lng": -46.462},
-			{"lat": -73.428, "lng": -47.527}
+			{"lat": -72.374, "lng": 22.776},
+			{"lat": -73.046, "lng": 23.830},
+			{"lat": -72.240, "lng": 27.763},
+			{"lat": -71.847, "lng": 26.720}
 		]
 	},
 
