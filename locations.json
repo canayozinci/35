@@ -2539,8 +2539,8 @@
 		"title": "WestMinster",
 		"notes": "XXXXX",
 		"order": 0,
-		"strokecolor": "ff00ff",
-		"fillcolor": "ff00ff",
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
 		"latlngarray": [
 			{"lat": -72.374, "lng": 22.776},
 			{"lat": -73.046, "lng": 23.830},
