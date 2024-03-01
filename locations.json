@@ -2570,6 +2570,27 @@
 		]
 	},
 
+	{
+		"id": 2064,
+		"type": "Territories",
+		"title": "Dark Legion",
+		"notes": "Los Santos'un kaotik sokaklarında, araba tutkunu Charlie'nin liderliğindeki mekanik ekibi, Jimmy Artman, Shou Tetsuo, Haru Tetsuo, Magne Ruslanov, Jakan Dion ve Steven Collins ile birlikte şehirdeki işlerini yürütüyordu. Her biri kendi uzmanlık alanına sahip yetenekli mekaniklerdi. Bu sırada, Los Santos'un gizemli güzeli Mila ile tanıştı ve aralarında derin bir bağ oluştu. Mila, Charlie'nin hayatına yeni bir heyecan katarken, işlerine odaklanmasını da sağlıyordu.
+
+		Charlie, işlerine yeni bir boyut eklemek için araçları güçlendiren çip ve NOS satışını başlattı. Artık sadece kaçışlarda değil, araçların performansını artırarak şehirdeki suç dünyasında daha etkili olabileceklerdi. Ancak, bu yeni işin getirdiği risklerle birlikte, Charlie ve ekibi için daha büyük tehlikeler de başlamıştı. Rakip çetelerin hedefi haline gelmişlerdi ve polis sürekli olarak peşlerindeydi.
+		
+		Charlie, ekibinin güvenliğini sağlamak için daha sofistike kaçış planları yapmaya başladı. Ancak, her başarı, onları daha fazla tehlikeye sokuyordu. İşler karmaşıklaştıkça, ekibin birlikte çalışması ve birbirlerine olan güveni hayati önem taşıyordu. Los Santos'un karanlık sokaklarında, Charlie ve ekibinin cesareti ve zekası, hayatta kalabilmek için tek umutlarıydı.",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -79.535, "lng": 15.414},
+			{"lat": -79.414, "lng": 6.987},
+			{"lat": -79.055, "lng": 7.196},
+			{"lat": -78.975, "lng": 7.888},
+			{"lat": -79.117, "lng": 15.601}
+		]
+	},
+
 
 
 
