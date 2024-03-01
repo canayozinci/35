@@ -3713,20 +3713,16 @@
 	{
 		"id": 8003,
 		"type": "Restaurants",
-		"title": "Rooster Rest",
-		"notes": "Şehirde daha hizmetine başlamayan bir restorant",
+		"title": "Pond Cafe",
+		"notes": "Göl manzaralı temiz bir kafe",
 		"order": 0,
 		"strokecolor": "E759E1",
 		"fillcolor": "E759E1",
 		"latlngarray": [
-			{"lat": -46.792, "lng": -21.512},
-			{"lat": -46.792, "lng": -19.018},
-			{"lat": -47.077, "lng": -18.754},
-			{"lat": -48.099, "lng": -18.699},
-			{"lat": -48.107, "lng": -19.358},
-			{"lat": -48.048, "lng": -20.182},
-			{"lat": -47.989, "lng": -20.644},
-			{"lat": -47.967, "lng": -21.512}
+			{"lat": -62.744, "lng": 17.141},
+			{"lat": -63.034, "lng": 17.295},
+			{"lat": -63.173, "lng": 18.371},
+			{"lat": -62.451, "lng": 18.240}
 		]
 	},
 	{
