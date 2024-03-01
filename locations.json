@@ -3014,43 +3014,40 @@
 	{
 		"id": 4002,
 		"type": "Automotive",
-		"title": "Benny's Original Motor Works",
-		"notes": "Şehirde aktif olan tek mekanik Şu anda",
+		"title": "Fourteen Garage",
+		"notes": "FFF",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
 		"latlngarray": [
-			{"lat": -67.373, "lng": -16.101},
-			{"lat": -67.791, "lng": -13.025},
-			{"lat": -68.502, "lng": -13.805},
-			{"lat": -68.552, "lng": -15.474},
-			{"lat": -68.077, "lng": -14.979},
-			{"lat": -67.887, "lng": -16.617}
+			{"lat": -70.435, "lng": -22.370},
+			{"lat": -70.720, "lng": -22.392},
+			{"lat": -70.756, "lng": -20.173},
+			{"lat": -70.302, "lng": -20.261}
 		]
 	},
 	{
 		"id": 4004,
 		"type": "Automotive",
-		"title": "Deluxe Car Garage/Showroom",
+		"title": "SM Garage",
 		"notes": "*****",
 		"wiki_link": "",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CADA",
 		"latlngarray": [
-			{"lat": -65.615, "lng": 7.982},
-			{"lat": -65.578, "lng": 9.712},
-			{"lat": -66.158, "lng": 9.712},
-			{"lat": -66.158, "lng": 8.026},
-			{"lat": -65.962, "lng": 7.949}
+			{"lat": -56.427, "lng": 0.448},
+			{"lat": -56.427, "lng": 1.239},
+			{"lat": -55.499, "lng": 1.283},
+			{"lat": -55.505, "lng": 0.305}
 		]
 	},
 	
 	{
 		"id": 4008,
 		"type": "Automotive",
-		"title": "Hayes",
-		"notes": "Sahibi Yok",
+		"title": "Modesta Motorworks",
+		"notes": "xxxx",
 		"order": 0,
 		"strokecolor": "00CAD8",
 		"fillcolor": "00CAD8",
@@ -3064,7 +3061,7 @@
 	{
 		"id": 4009,
 		"type": "Automotive",
-		"title": "International Airport Los Santos Customs",
+		"title": "RedFlag Garage",
 		"notes": "",
 		"wiki_link": "",
 		"order": 0,
@@ -3077,6 +3074,95 @@
 			{"lat": -76.219, "lng": -48.877}
 		]
 	},
+
+	{
+		"id": 4010,
+		"type": "Automotive",
+		"title": "LA Garage",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -81.629, "lng": -11.742},
+			{"lat": -81.603, "lng": -9.852},
+			{"lat": -82.023, "lng": -9.940},
+			{"lat": -82.038, "lng": -11.720}
+		]
+	},
+
+	{
+		"id": 4011,
+		"type": "Automotive",
+		"title": "AfterLife Garage",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -82.316, "lng": 8.558},
+			{"lat": -82.550, "lng": 6.800},
+			{"lat": -82.680, "lng": 10.140},
+			{"lat": -82.313, "lng": 10.536}
+		]
+	},
+
+	{
+		"id": 4012,
+		"type": "Automotive",
+		"title": "Deep Garage",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -74.107, "lng": -10.746},
+			{"lat": -73.916, "lng": -9.889},
+			{"lat": -74.116, "lng": -9.065},
+			{"lat": -74.280, "lng": -9.944}
+		]
+	},
+
+	{
+		"id": 4013,
+		"type": "Automotive",
+		"title": "GT Garage",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -74.747, "lng": -7.831},
+			{"lat": -74.552, "lng": -7.117},
+			{"lat": -74.707, "lng": -6.293},
+			{"lat": -74.931, "lng": -7.062}
+		]
+	},
+
+
+	{
+		"id": 4014,
+		"type": "Automotive",
+		"title": "Alcarin Garage",
+		"notes": "",
+		"wiki_link": "",
+		"order": 0,
+		"strokecolor": "00CAD8",
+		"fillcolor": "00CADA",
+		"latlngarray": [
+			{"lat": -55.519, "lng": -25.670},
+			{"lat": -54.626, "lng": -24.879},
+			{"lat": -54.842, "lng": -23.407},
+			{"lat": -55.928, "lng": -24.176}
+
+		]
+	},
+
+
 	{
 		"id": 4016,
 		"type": "Automotive",
