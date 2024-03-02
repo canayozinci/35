@@ -3499,6 +3499,26 @@
 	},
 
 	{
+		"id": 6022,
+		"type": "Legal",
+		"title": "SASP",
+		"notes": "Eyaletten sorumlu olan kolluk kuvvetleri.",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "0000FF",
+		"latlngarray": [
+			{"lat": -59.158, "lng": -24.688},
+			{"lat": -58.927, "lng": -28.467},
+			{"lat": -58.187, "lng": -28.467},
+			{"lat": -57.592, "lng": -28.973},
+			{"lat": -57.284, "lng": -27.885},
+			{"lat": -57.797, "lng": -27.006},
+			{"lat": -58.170, "lng": -26.039},
+			{"lat": -58.756, "lng": -24.479}
+		]
+	},
+
+	{
 		"id": 6005,
 		"type": "Legal",
 		"title": "Mission Row PD",
