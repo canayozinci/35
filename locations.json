@@ -2549,6 +2549,72 @@
 		]
 	},
 
+	{
+		"id": 2065,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -74.596, "lng": -9.978},
+			{"lat": -75.090, "lng": -11.547},
+			{"lat": -75.459, "lng": -8.998},
+			{"lat": -75.079, "lng": -7.592}
+		]
+	},
+
+	{
+		"id": 2066,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -75.289, "lng": -6.853},
+			{"lat": -76.323, "lng": -10.105},
+			{"lat": -76.524, "lng": -8.171},
+			{"lat": -75.652, "lng": -5.051}
+		]
+	},
+
+	{
+		"id": 2067,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -75.289, "lng": -6.853},
+			{"lat": -76.323, "lng": -10.105},
+			{"lat": -76.524, "lng": -8.171},
+			{"lat": -75.652, "lng": -5.051}
+		]
+	},
+
+	{
+		"id": 2068,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -71.370, "lng": -10.245},
+			{"lat": -72.288, "lng": -6.224},
+			{"lat": -72.938, "lng": -9.828},
+			{"lat": -72.235, "lng": -12.596}
+		]
+	},
+
+
+
 	
 
 
