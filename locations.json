@@ -2613,6 +2613,150 @@
 		]
 	},
 
+	{
+		"id": 2069,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -78.853, "lng": 15.442},
+			{"lat": -78.896, "lng": 18.672},
+			{"lat": -76.726, "lng": 19.023},
+			{"lat": -76.711, "lng": 16.233}
+		]
+	},
+
+
+	{
+		"id": 2070,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -78.853, "lng": 15.442},
+			{"lat": -78.896, "lng": 18.672},
+			{"lat": -76.726, "lng": 19.023},
+			{"lat": -76.711, "lng": 16.233}
+		]
+	},
+
+
+	
+	{
+		"id": 2071,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -79.500, "lng": 20.352},
+			{"lat": -79.726, "lng": 20.725},
+			{"lat": -79.576, "lng": 23.911},
+			{"lat": -79.109, "lng": 23.362}
+		]
+	},
+
+
+	{
+		"id": 2072,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -78.214, "lng": 2.019},
+			{"lat": -76.561, "lng": 2.392},
+			{"lat": -76.525, "lng": 0.261},
+			{"lat": -77.393, "lng": -3.738}
+		]
+	},
+
+	{
+		"id": 2073,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -72.705, "lng": 1.059},
+			{"lat": -73.372, "lng": -0.721},
+			{"lat": -73.653, "lng": 0.444},
+			{"lat": -73.315, "lng": 2.355},
+			{"lat": -72.855, "lng": 1.916}
+		]
+	},
+
+	{
+		"id": 2074,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -69.690, "lng": 7.881},
+			{"lat": -69.717, "lng": 3.849},
+			{"lat": -68.906, "lng": 3.926},
+			{"lat": -68.866, "lng": 7.815}
+		]
+	},
+
+	{
+		"id": 2075,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -73.922, "lng": 18.305},
+			{"lat": -73.239, "lng": 17.361},
+			{"lat": -72.538, "lng": 21.997},
+			{"lat": -73.169, "lng": 23.227}
+		]
+	},
+
+	{
+		"id": 2076,
+		"type": "Territories",
+		"title": "Turf",
+		"notes": "",
+		"order": 0,
+		"strokecolor": "FF0000",
+		"fillcolor": "FF0000",
+		"latlngarray": [
+			{"lat": -75.835, "lng": -3.037},
+			{"lat": -76.409, "lng": -0.554},
+			{"lat": -76.368, "lng": 2.566},
+			{"lat": -75.525, "lng": 3.181},
+			{"lat": -75.348, "lng": 1.401}
+		]
+	},
+
+	
+	
+	
+	
+	
+
+
+
+
+
 
 
 	
